@@ -18,5 +18,10 @@ namespace JobBoard.Models
       _openings.Add(this);
       Id = _openings.Count;
     }
+
+    public static void ClearAll()
+    {
+      _openings.Clear();
+    }
   }
 }
