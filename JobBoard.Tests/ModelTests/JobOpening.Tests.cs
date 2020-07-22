@@ -16,7 +16,7 @@ namespace JobBoard.TestTools
     public void JobOpeningConstructor_CreatesInstanceOfJobOpening_JobOpening()
     {
       JobOpening newJobOpening = new JobOpening("Salt Miner", "mine salt", "Sterling Holmes", 1234567845);
-      Assert.AreEqual(typeof(int), newJobOpening.GetType());
+      Assert.AreEqual(typeof(JobOpening), newJobOpening.GetType());
     }
   }
 }
