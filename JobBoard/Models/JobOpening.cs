@@ -21,6 +21,7 @@ namespace JobBoard.Models
 
     public static void ClearAll()
     {
+      contactInfo.Clear();
       _openings.Clear();
     }
   }
