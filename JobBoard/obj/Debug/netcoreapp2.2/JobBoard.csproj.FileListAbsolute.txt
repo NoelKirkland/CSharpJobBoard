@@ -1,0 +1,6 @@
+C:\Users\Taylor\Desktop\epicodus-projects\JobBoard.Solution\JobBoard\obj\Debug\netcoreapp2.2\JobBoard.csprojAssemblyReference.cache
+C:\Users\Taylor\Desktop\epicodus-projects\JobBoard.Solution\JobBoard\obj\Debug\netcoreapp2.2\JobBoard.AssemblyInfoInputs.cache
+C:\Users\Taylor\Desktop\epicodus-projects\JobBoard.Solution\JobBoard\obj\Debug\netcoreapp2.2\JobBoard.AssemblyInfo.cs
+C:\Users\Taylor\Desktop\epicodus-projects\JobBoard.Solution\JobBoard\obj\Debug\netcoreapp2.2\JobBoard.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\epicodus-projects\JobBoard.Solution\JobBoard\obj\Debug\netcoreapp2.2\JobBoard.RazorAssemblyInfo.cache
+C:\Users\Taylor\Desktop\epicodus-projects\JobBoard.Solution\JobBoard\obj\Debug\netcoreapp2.2\JobBoard.RazorAssemblyInfo.cs
