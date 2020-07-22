@@ -33,8 +33,8 @@ namespace JobBoard.TestTools
     // string resultName = newJobOpening.contactInfo<0,>;
     // int resultNumber = newJobOpening.contactInfo[name];
 
-    Assert.AreEqual("not", resultTitle);
-    Assert.AreEqual("what", resultDescription);
+    Assert.AreEqual(title, resultTitle);
+    Assert.AreEqual(description, resultDescription);
     // Assert.AreEqual(value, resultName);
     // Assert.AreEqual(here, resultNumber);
     }
