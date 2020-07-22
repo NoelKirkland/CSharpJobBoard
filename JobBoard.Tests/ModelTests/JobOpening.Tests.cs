@@ -31,12 +31,12 @@ namespace JobBoard.TestTools
     string resultTitle = newJobOpening.Title;
     string resultDescription = newJobOpening.Description;
     // string resultName = newJobOpening.contactInfo<0,>;
-    // int resultNumber = newJobOpening.contactInfo[name];
+    int resultNumber = JobOpening.contactInfo;
 
     Assert.AreEqual(title, resultTitle);
     Assert.AreEqual(description, resultDescription);
     // Assert.AreEqual(value, resultName);
-    // Assert.AreEqual(here, resultNumber);
+    Assert.AreEqual({ "Sterling Holmes", 1234567845 }, resultNumber);
     }
 
   }
